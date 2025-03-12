@@ -20,7 +20,12 @@
       "name": "local1",
       "nodeName": "local1",
       "elementId": "",
-      "attributes": [],
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "1gwfKo"
+        }
+      ],
       "classList": [],
       "conditionalClasses": [],
       "conditionalStyles": [],
@@ -42,7 +47,12 @@
       "name": "local2",
       "nodeName": "local2",
       "elementId": "",
-      "attributes": [],
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "R99Tjr"
+        }
+      ],
       "classList": [],
       "conditionalClasses": [],
       "conditionalStyles": [],
@@ -68,6 +78,10 @@
         {
           "property": "core",
           "value": ""
+        },
+        {
+          "property": "data-id",
+          "value": "4Dimr7"
         }
       ],
       "classList": [],
@@ -94,7 +108,12 @@
       "name": "global1",
       "nodeName": "global1",
       "elementId": "",
-      "attributes": [],
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "SQGxKE"
+        }
+      ],
       "classList": [],
       "conditionalClasses": [],
       "conditionalStyles": [],
@@ -116,7 +135,12 @@
       "name": "global2",
       "nodeName": "global2",
       "elementId": "",
-      "attributes": [],
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "vNVtOM"
+        }
+      ],
       "classList": [],
       "conditionalClasses": [],
       "conditionalStyles": [],
