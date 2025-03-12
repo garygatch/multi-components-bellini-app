@@ -1,0 +1,37 @@
+{
+  "type": "app-service",
+  "name": "a",
+  "description": "",
+  "singleton": true,
+  "variables": [
+    {
+      "name": "a",
+      "type": "property",
+      "description": "",
+      "value": ""
+    },
+    {
+      "name": "b",
+      "type": "property",
+      "description": "",
+      "value": ""
+    },
+    {
+      "name": "c",
+      "type": "method",
+      "description": "",
+      "body": "throw Error()",
+      "invokeOnLoad": false,
+      "isAsync": false,
+      "returnType": {
+        "name": "any"
+      },
+      "parameters": []
+    }
+  ],
+  "visible": [
+    "a",
+    "b",
+    "c"
+  ]
+}
